@@ -29,3 +29,4 @@ Generate and Copy the Token:
 Click Generate token.
 Copy the token immediately and save it securely (e.g., in a password manager). You won't be able to view it again later.
      
+you can directly integrate the credential in the script but make sure you dont publish it, and the best way would be to automate the whole process further!.
